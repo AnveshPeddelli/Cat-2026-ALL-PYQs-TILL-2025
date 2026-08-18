@@ -1,0 +1,319 @@
+{
+  "total": 1830,
+  "review_rows": 243,
+  "review_pct": 0.1328,
+  "topics": [
+    {
+      "section": "DILR",
+      "subsection": "Data Interpretation",
+      "topic": "Bar Graphs",
+      "count": 4
+    },
+    {
+      "section": "DILR",
+      "subsection": "Data Interpretation",
+      "topic": "Caselet & Arithmetic DI",
+      "count": 56
+    },
+    {
+      "section": "DILR",
+      "subsection": "Data Interpretation",
+      "topic": "Charts & Graphs (Type Review)",
+      "count": 53
+    },
+    {
+      "section": "DILR",
+      "subsection": "Data Interpretation",
+      "topic": "Tables & Matrix DI",
+      "count": 136
+    },
+    {
+      "section": "DILR",
+      "subsection": "Data Interpretation",
+      "topic": "Venn Diagrams & Set Data",
+      "count": 27
+    },
+    {
+      "section": "DILR",
+      "subsection": "Logical Reasoning",
+      "topic": "Binary Logic & Truth-Lie",
+      "count": 4
+    },
+    {
+      "section": "DILR",
+      "subsection": "Logical Reasoning",
+      "topic": "Circular Arrangements",
+      "count": 12
+    },
+    {
+      "section": "DILR",
+      "subsection": "Logical Reasoning",
+      "topic": "Games & Tournaments",
+      "count": 55
+    },
+    {
+      "section": "DILR",
+      "subsection": "Logical Reasoning",
+      "topic": "Grid & Matrix Logic",
+      "count": 31
+    },
+    {
+      "section": "DILR",
+      "subsection": "Logical Reasoning",
+      "topic": "Ordering & Ranking",
+      "count": 19
+    },
+    {
+      "section": "DILR",
+      "subsection": "Logical Reasoning",
+      "topic": "Other Logic / Needs Review",
+      "count": 10
+    },
+    {
+      "section": "DILR",
+      "subsection": "Logical Reasoning",
+      "topic": "Quant-Based Reasoning",
+      "count": 35
+    },
+    {
+      "section": "DILR",
+      "subsection": "Logical Reasoning",
+      "topic": "Routes & Networks",
+      "count": 45
+    },
+    {
+      "section": "DILR",
+      "subsection": "Logical Reasoning",
+      "topic": "Scheduling & Timetables",
+      "count": 36
+    },
+    {
+      "section": "DILR",
+      "subsection": "Logical Reasoning",
+      "topic": "Selection, Grouping & Distribution",
+      "count": 53
+    },
+    {
+      "section": "Quant",
+      "subsection": "Algebra",
+      "topic": "Functions",
+      "count": 28
+    },
+    {
+      "section": "Quant",
+      "subsection": "Algebra",
+      "topic": "Inequalities & Optimization",
+      "count": 11
+    },
+    {
+      "section": "Quant",
+      "subsection": "Algebra",
+      "topic": "Linear & Quadratic Equations",
+      "count": 12
+    },
+    {
+      "section": "Quant",
+      "subsection": "Algebra",
+      "topic": "Logarithms, Exponents & Surds",
+      "count": 50
+    },
+    {
+      "section": "Quant",
+      "subsection": "Algebra",
+      "topic": "Sequences & Series",
+      "count": 22
+    },
+    {
+      "section": "Quant",
+      "subsection": "Arithmetic",
+      "topic": "Averages",
+      "count": 35
+    },
+    {
+      "section": "Quant",
+      "subsection": "Arithmetic",
+      "topic": "Mixtures & Alligation",
+      "count": 12
+    },
+    {
+      "section": "Quant",
+      "subsection": "Arithmetic",
+      "topic": "Percentages",
+      "count": 60
+    },
+    {
+      "section": "Quant",
+      "subsection": "Arithmetic",
+      "topic": "Pipes & Cisterns",
+      "count": 10
+    },
+    {
+      "section": "Quant",
+      "subsection": "Arithmetic",
+      "topic": "Profit, Loss & Discount",
+      "count": 33
+    },
+    {
+      "section": "Quant",
+      "subsection": "Arithmetic",
+      "topic": "Ratios, Proportion & Variation",
+      "count": 44
+    },
+    {
+      "section": "Quant",
+      "subsection": "Arithmetic",
+      "topic": "Simple & Compound Interest",
+      "count": 19
+    },
+    {
+      "section": "Quant",
+      "subsection": "Arithmetic",
+      "topic": "Time & Work",
+      "count": 14
+    },
+    {
+      "section": "Quant",
+      "subsection": "Arithmetic",
+      "topic": "Time, Speed & Distance",
+      "count": 44
+    },
+    {
+      "section": "Quant",
+      "subsection": "Geometry",
+      "topic": "Circles",
+      "count": 20
+    },
+    {
+      "section": "Quant",
+      "subsection": "Geometry",
+      "topic": "Coordinate Geometry",
+      "count": 12
+    },
+    {
+      "section": "Quant",
+      "subsection": "Geometry",
+      "topic": "Mensuration",
+      "count": 9
+    },
+    {
+      "section": "Quant",
+      "subsection": "Geometry",
+      "topic": "Triangles, Quadrilaterals & Polygons",
+      "count": 40
+    },
+    {
+      "section": "Quant",
+      "subsection": "Geometry",
+      "topic": "Trigonometry",
+      "count": 1
+    },
+    {
+      "section": "Quant",
+      "subsection": "Modern Math",
+      "topic": "Permutations & Combinations",
+      "count": 14
+    },
+    {
+      "section": "Quant",
+      "subsection": "Modern Math",
+      "topic": "Set Theory",
+      "count": 6
+    },
+    {
+      "section": "Quant",
+      "subsection": "Number System",
+      "topic": "Digits & Number Bases",
+      "count": 11
+    },
+    {
+      "section": "Quant",
+      "subsection": "Number System",
+      "topic": "Factorials",
+      "count": 1
+    },
+    {
+      "section": "Quant",
+      "subsection": "Number System",
+      "topic": "Factors, Divisibility & Integers",
+      "count": 88
+    },
+    {
+      "section": "Quant",
+      "subsection": "Number System",
+      "topic": "Fractions & Decimals",
+      "count": 1
+    },
+    {
+      "section": "Quant",
+      "subsection": "Number System",
+      "topic": "Remainders",
+      "count": 3
+    },
+    {
+      "section": "Quant",
+      "subsection": "Other",
+      "topic": "Mixed / Needs Review",
+      "count": 12
+    },
+    {
+      "section": "VARC",
+      "subsection": "Reading Comprehension",
+      "topic": "RC - Arts, Literature & Language",
+      "count": 4
+    },
+    {
+      "section": "VARC",
+      "subsection": "Reading Comprehension",
+      "topic": "RC - Business & Economics",
+      "count": 56
+    },
+    {
+      "section": "VARC",
+      "subsection": "Reading Comprehension",
+      "topic": "RC - Environment & Geography",
+      "count": 40
+    },
+    {
+      "section": "VARC",
+      "subsection": "Reading Comprehension",
+      "topic": "RC - General / Theme Review",
+      "count": 145
+    },
+    {
+      "section": "VARC",
+      "subsection": "Reading Comprehension",
+      "topic": "RC - History & Culture",
+      "count": 25
+    },
+    {
+      "section": "VARC",
+      "subsection": "Reading Comprehension",
+      "topic": "RC - Science & Technology",
+      "count": 174
+    },
+    {
+      "section": "VARC",
+      "subsection": "Verbal Ability",
+      "topic": "Odd Sentence Out",
+      "count": 48
+    },
+    {
+      "section": "VARC",
+      "subsection": "Verbal Ability",
+      "topic": "Para Completion",
+      "count": 21
+    },
+    {
+      "section": "VARC",
+      "subsection": "Verbal Ability",
+      "topic": "Para Jumbles",
+      "count": 63
+    },
+    {
+      "section": "VARC",
+      "subsection": "Verbal Ability",
+      "topic": "Para Summary",
+      "count": 66
+    }
+  ]
+}

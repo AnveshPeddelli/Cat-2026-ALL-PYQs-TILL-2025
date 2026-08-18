@@ -1,0 +1,222 @@
+  3 | CAT 2017 Question Paper Slot 1 - Algebra
+  1 | CAT 2017 Question Paper Slot 1 - Averages
+  1 | CAT 2017 Question Paper Slot 1 - Co-ordinate Geometry
+  3 | CAT 2017 Question Paper Slot 1 - Exponents & Logarithms
+  2 | CAT 2017 Question Paper Slot 1 - Functions
+  3 | CAT 2017 Question Paper Slot 1 - Geometry
+  1 | CAT 2017 Question Paper Slot 1 - Inequalities
+  2 | CAT 2017 Question Paper Slot 1 - Mensuration & Geometry
+  1 | CAT 2017 Question Paper Slot 1 - Mixture & Alligation
+  3 | CAT 2017 Question Paper Slot 1 - Percentages
+  3 | CAT 2017 Question Paper Slot 1 - Permutation & Combination
+  1 | CAT 2017 Question Paper Slot 1 - Pipes & Cisterns
+  3 | CAT 2017 Question Paper Slot 1 - Profit & Loss
+  2 | CAT 2017 Question Paper Slot 1 - Progressions
+  2 | CAT 2017 Question Paper Slot 1 - Ratio & Proportions
+  2 | CAT 2017 Question Paper Slot 1 - Speed Time Distance
+  1 | CAT 2017 Question Paper Slot 1 – Co-ordinate Geometry
+  1 | CAT 2017 Question Paper Slot 2 - Averages
+  1 | CAT 2017 Question Paper Slot 2 - Co-ordinate Geometry
+  3 | CAT 2017 Question Paper Slot 2 - Exponents & Logarithms
+  3 | CAT 2017 Question Paper Slot 2 - Functions
+  5 | CAT 2017 Question Paper Slot 2 - Geometry
+  2 | CAT 2017 Question Paper Slot 2 - Mixtures
+  3 | CAT 2017 Question Paper Slot 2 - Number Theory
+  2 | CAT 2017 Question Paper Slot 2 - Percentages
+  2 | CAT 2017 Question Paper Slot 2 - Permutation & Combination
+  1 | CAT 2017 Question Paper Slot 2 - Pipes & Cisterns
+  2 | CAT 2017 Question Paper Slot 2 - Profit & Loss
+  3 | CAT 2017 Question Paper Slot 2 - Progressions
+  1 | CAT 2017 Question Paper Slot 2 - Quadratic Equations
+  1 | CAT 2017 Question Paper Slot 2 - Races
+  1 | CAT 2017 Question Paper Slot 2 - Ratios
+  2 | CAT 2017 Question Paper Slot 2 - Speed Time Distance
+  1 | CAT 2017 Question Paper Slot 2 - Work and Time
+  2 | CAT 2018 Question Paper Slot 1 - Averages
+  1 | CAT 2018 Question Paper Slot 1 - Exponents
+  2 | CAT 2018 Question Paper Slot 1 - Functions
+  5 | CAT 2018 Question Paper Slot 1 - Geometry
+  1 | CAT 2018 Question Paper Slot 1 - Linear and Quadratic Equations
+  2 | CAT 2018 Question Paper Slot 1 - Logarithm
+  1 | CAT 2018 Question Paper Slot 1 - Logarithms
+  2 | CAT 2018 Question Paper Slot 1 - Mensuration
+  1 | CAT 2018 Question Paper Slot 1 - Mixtures
+  1 | CAT 2018 Question Paper Slot 1 - Mixtures and Alligations
+  2 | CAT 2018 Question Paper Slot 1 - Number Theory
+  1 | CAT 2018 Question Paper Slot 1 - Number theory
+  1 | CAT 2018 Question Paper Slot 1 - Percentages
+  1 | CAT 2018 Question Paper Slot 1 - Pipes & Cisterns
+  1 | CAT 2018 Question Paper Slot 1 - Ratio & Proportions
+  1 | CAT 2018 Question Paper Slot 1 - Ratio and Proportion
+  1 | CAT 2018 Question Paper Slot 1 - SI & CI
+  1 | CAT 2018 Question Paper Slot 1 - Sequence & Series
+  2 | CAT 2018 Question Paper Slot 1 - Set Theory
+  2 | CAT 2018 Question Paper Slot 1 - Speed Time Distance
+  1 | CAT 2018 Question Paper Slot 1 - Speed, Time and Distance
+  2 | CAT 2018 Question Paper Slot 1 - Work and Time
+  1 | CAT 2018 Question Paper Slot 2 - Coordinate Geometry
+  1 | CAT 2018 Question Paper Slot 2 - Functions
+  2 | CAT 2018 Question Paper Slot 2 - Geometry
+  1 | CAT 2018 Question Paper Slot 2 - Inequalities
+  2 | CAT 2018 Question Paper Slot 2 - Logarithm
+  3 | CAT 2018 Question Paper Slot 2 - Mensuration
+  1 | CAT 2018 Question Paper Slot 2 - Mixtures
+  1 | CAT 2018 Question Paper Slot 2 - Mixtures and Alligations
+  3 | CAT 2018 Question Paper Slot 2 - Number Theory
+  1 | CAT 2018 Question Paper Slot 2 - Number Theory | Inequalities
+  1 | CAT 2018 Question Paper Slot 2 - Permutation & Combination
+  2 | CAT 2018 Question Paper Slot 2 - Pipes & Cisterns
+  1 | CAT 2018 Question Paper Slot 2 - Polynomials | Inequalities
+  1 | CAT 2018 Question Paper Slot 2 - Progressions & Series
+  1 | CAT 2018 Question Paper Slot 2 - Ratio & Proportion | Mixtures & Alligations
+  1 | CAT 2018 Question Paper Slot 2 - Ratio & Proportions
+  1 | CAT 2018 Question Paper Slot 2 - Ratio & Proportions | Mixtures & Alligations
+  1 | CAT 2018 Question Paper Slot 2 - SI & CI
+  3 | CAT 2018 Question Paper Slot 2 - Sequence & Series
+  2 | CAT 2018 Question Paper Slot 2 - Set Theory
+  1 | CAT 2018 Question Paper Slot 2 - Speed Time Distance
+  2 | CAT 2018 Question Paper Slot 2 - Speed, Time and Distance
+  1 | CAT 2018 Question Paper Slot 2 - Work & Time
+  1 | CAT 2019 Question Paper Slot 1 - Averages
+  1 | CAT 2019 Question Paper Slot 1 - Circles
+  3 | CAT 2019 Question Paper Slot 1 - Coordinate Geometry
+  2 | CAT 2019 Question Paper Slot 1 - Exponents
+  2 | CAT 2019 Question Paper Slot 1 - Functions
+  1 | CAT 2019 Question Paper Slot 1 - Geometry
+  1 | CAT 2019 Question Paper Slot 1 - Logarithms
+  2 | CAT 2019 Question Paper Slot 1 - Mensuration
+  1 | CAT 2019 Question Paper Slot 1 - Mixtures
+  1 | CAT 2019 Question Paper Slot 1 - Number theory
+  3 | CAT 2019 Question Paper Slot 1 - Percentages
+  1 | CAT 2019 Question Paper Slot 1 - Profit & Loss
+  3 | CAT 2019 Question Paper Slot 1 - Progressions
+  2 | CAT 2019 Question Paper Slot 1 - Quadratic equations
+  1 | CAT 2019 Question Paper Slot 1 - Races
+  1 | CAT 2019 Question Paper Slot 1 - Ratios and proportions
+  1 | CAT 2019 Question Paper Slot 1 - Set Theory
+  1 | CAT 2019 Question Paper Slot 1 - Simple interest
+  3 | CAT 2019 Question Paper Slot 1 - Speed, time and distance
+  1 | CAT 2019 Question Paper Slot 1 - Trigonometry
+  2 | CAT 2019 Question Paper Slot 1 - Work, time
+  1 | CAT 2019 Question Paper Slot 2 - - Sequence & series
+  1 | CAT 2019 Question Paper Slot 2 - Averages
+  1 | CAT 2019 Question Paper Slot 2 - Exponents & Powers
+  1 | CAT 2019 Question Paper Slot 2 - Functions
+  4 | CAT 2019 Question Paper Slot 2 - Geometry
+  3 | CAT 2019 Question Paper Slot 2 - Linear & quadratic equations
+  2 | CAT 2019 Question Paper Slot 2 - Logarithms
+  2 | CAT 2019 Question Paper Slot 2 - Mensuration
+  1 | CAT 2019 Question Paper Slot 2 - Mixtures
+  4 | CAT 2019 Question Paper Slot 2 - Number theory
+  2 | CAT 2019 Question Paper Slot 2 - Percentages
+  2 | CAT 2019 Question Paper Slot 2 - Profit & loss
+  1 | CAT 2019 Question Paper Slot 2 - Races
+  1 | CAT 2019 Question Paper Slot 2 - Ratio & proportion
+  1 | CAT 2019 Question Paper Slot 2 - Ratios and proportions
+  2 | CAT 2019 Question Paper Slot 2 - Sequence & series
+  1 | CAT 2019 Question Paper Slot 2 - Simple interest & Compound interest
+  1 | CAT 2019 Question Paper Slot 2 - Speed, Time & distance
+  1 | CAT 2019 Question Paper Slot 2 - Speed, time & distance
+  2 | CAT 2019 Question Paper Slot 2 - Work & time
+  1 | CAT 2020 Question Paper Slot 1 - Averages
+  1 | CAT 2020 Question Paper Slot 1 - Co-ordinate Geometry
+  2 | CAT 2020 Question Paper Slot 1 - Digits
+  3 | CAT 2020 Question Paper Slot 1 - Exponents & Powers
+  1 | CAT 2020 Question Paper Slot 1 - Functions
+  1 | CAT 2020 Question Paper Slot 1 - Geometry
+  2 | CAT 2020 Question Paper Slot 1 - Linear & quadratic equations
+  1 | CAT 2020 Question Paper Slot 1 - Logarithms
+  2 | CAT 2020 Question Paper Slot 1 - Mensuration
+  1 | CAT 2020 Question Paper Slot 1 - Mixtures
+  2 | CAT 2020 Question Paper Slot 1 - Number Theory
+  1 | CAT 2020 Question Paper Slot 1 - Percentages
+  1 | CAT 2020 Question Paper Slot 1 - Profit & Loss
+  1 | CAT 2020 Question Paper Slot 1 - Ratio & Proportions
+  1 | CAT 2020 Question Paper Slot 1 - Sequence & Series
+  1 | CAT 2020 Question Paper Slot 1 - Simple interest & Compound interest
+  4 | CAT 2020 Question Paper Slot 1 - Speed, time & distance
+  1 | CAT 2020 Question Paper Slot 2 - Averages
+  1 | CAT 2020 Question Paper Slot 2 - Digits
+  1 | CAT 2020 Question Paper Slot 2 - Functions
+  3 | CAT 2020 Question Paper Slot 2 - Geometry
+  1 | CAT 2020 Question Paper Slot 2 - Inequalities
+  4 | CAT 2020 Question Paper Slot 2 - Linear & quadratic equations
+  1 | CAT 2020 Question Paper Slot 2 - Logarithms
+  1 | CAT 2020 Question Paper Slot 2 - Mensuration
+  1 | CAT 2020 Question Paper Slot 2 - Number Theory
+  1 | CAT 2020 Question Paper Slot 2 - Percentages
+  1 | CAT 2020 Question Paper Slot 2 - Polynomials
+  1 | CAT 2020 Question Paper Slot 2 - Profit & Loss
+  2 | CAT 2020 Question Paper Slot 2 - Races
+  1 | CAT 2020 Question Paper Slot 2 - Ratio & Proportions
+  1 | CAT 2020 Question Paper Slot 2 - Sequence & series
+  1 | CAT 2020 Question Paper Slot 2 - Set Theory
+  1 | CAT 2020 Question Paper Slot 2 - Simple interest & Compound interest
+  2 | CAT 2020 Question Paper Slot 2 - Speed, time & distance
+  1 | CAT 2020 Question Paper Slot 2 - Work & time
+  2 | CAT 2020 Question Paper Slot 3 - Averages
+  3 | CAT 2020 Question Paper Slot 3 - Co-ordinate Geometry
+  1 | CAT 2020 Question Paper Slot 3 - Combinatorics
+  2 | CAT 2020 Question Paper Slot 3 - Digits
+  2 | CAT 2020 Question Paper Slot 3 - Exponents & Powers
+  1 | CAT 2020 Question Paper Slot 3 - Functions
+  1 | CAT 2020 Question Paper Slot 3 - Geometry
+  2 | CAT 2020 Question Paper Slot 3 - Linear & quadratic equations
+  2 | CAT 2020 Question Paper Slot 3 - Logarithms
+  1 | CAT 2020 Question Paper Slot 3 - Mixtures
+  2 | CAT 2020 Question Paper Slot 3 - Number Theory
+  1 | CAT 2020 Question Paper Slot 3 - Percentages
+  1 | CAT 2020 Question Paper Slot 3 - Profit & Loss
+  1 | CAT 2020 Question Paper Slot 3 - Races
+  1 | CAT 2020 Question Paper Slot 3 - Simple interest & Compound interest
+  2 | CAT 2020 Question Paper Slot 3 - Speed, time & distance
+  1 | CAT 2020 Question Paper Slot 3 - Work & time
+ 22 | CAT 2021 Slot 1 - QA
+ 22 | CAT 2021 Slot 2 - QA
+ 22 | CAT 2021 Slot 3 - QA
+ 22 | CAT 2022 Slot 1 - QA
+ 22 | CAT 2022 Slot 2 - QA
+ 22 | CAT 2022 Slot 3 - QA
+ 22 | CAT 2023 Slot 1 - QA
+ 22 | CAT 2023 Slot 2 - QA
+ 22 | CAT 2023 Slot 3 - QA
+  1 | CAT 2024 Slot 1 - QA - Combinatorics
+  3 | CAT 2024 Slot 1 - QA - Functions
+  1 | CAT 2024 Slot 1 - QA - Geometry
+  4 | CAT 2024 Slot 1 - QA - Linear Quadratic
+  2 | CAT 2024 Slot 1 - QA - Logarithms Exponents
+  1 | CAT 2024 Slot 1 - QA - Mensuration
+  3 | CAT 2024 Slot 1 - QA - Percents Profits SICI
+  1 | CAT 2024 Slot 1 - QA - Pipes Cisterns Work Time
+  1 | CAT 2024 Slot 1 - QA - Progressions
+  3 | CAT 2024 Slot 1 - QA - Ratios Mixtures Averages
+  1 | CAT 2024 Slot 1 - QA - Remainders
+  1 | CAT 2024 Slot 1 - QA - Speed Time Distance Races
+  1 | CAT 2024 Slot 2 - QA - Cogeo
+  1 | CAT 2024 Slot 2 - QA - Combinatorics
+  1 | CAT 2024 Slot 2 - QA - Functions
+  2 | CAT 2024 Slot 2 - QA - Geometry
+  2 | CAT 2024 Slot 2 - QA - Inequalities
+  4 | CAT 2024 Slot 2 - QA - Linear Quadratic
+  2 | CAT 2024 Slot 2 - QA - Logarithms Exponents
+  3 | CAT 2024 Slot 2 - QA - Percents Profits SICI
+  1 | CAT 2024 Slot 2 - QA - Pipes Cisterns Work Time
+  1 | CAT 2024 Slot 2 - QA - Progressions
+  2 | CAT 2024 Slot 2 - QA - Ratios Mixtures Averages
+  1 | CAT 2024 Slot 2 - QA - Remainders
+  1 | CAT 2024 Slot 2 - QA - Speed Time Distance Races
+  1 | CAT 2024 Slot 3 - QA - Combinatorics
+  1 | CAT 2024 Slot 3 - QA - Functions
+  3 | CAT 2024 Slot 3 - QA - Geometry
+  2 | CAT 2024 Slot 3 - QA - Inequalities
+  2 | CAT 2024 Slot 3 - QA - Linear Quadratic
+  2 | CAT 2024 Slot 3 - QA - Logarithms Exponents
+  4 | CAT 2024 Slot 3 - QA - Percents Profits SICI
+  1 | CAT 2024 Slot 3 - QA - Pipes Cisterns Work Time
+  1 | CAT 2024 Slot 3 - QA - Progressions
+  3 | CAT 2024 Slot 3 - QA - Ratios Mixtures Averages
+  1 | CAT 2024 Slot 3 - QA - Remainders
+  1 | CAT 2024 Slot 3 - QA - Speed Time Distance Races
+ 22 | CAT 2025 Slot 1 - QA
+ 22 | CAT 2025 Slot 2 - QA
+ 22 | CAT 2025 Slot 3 - QA
